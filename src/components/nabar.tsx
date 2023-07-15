@@ -1,6 +1,6 @@
 import { HStack, Image,Text } from '@chakra-ui/react'
 import React from 'react'
-import logo from '../assets/gamepad.png'
+import logo from '../assets/gaming.png'
 
 
 const NavBar = () => {
@@ -12,4 +12,4 @@ const NavBar = () => {
   )
 }
 
-export default NavBar;
+export default NavBar
